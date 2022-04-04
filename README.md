@@ -1,2 +1,2 @@
 # connect-four
-connect four
+This game is played on a vertical board which has 8 hollow columns and 8 rows . Each column has a hole in the upper part of the board , where pieces are introduced. There is a window for every square , so that pieces can be seen from both sides. in short , it's vertical board with 64 windows distributed in 8 rows and 8 columns . both players have a set of 32 thin pieces (like coins) each of them uses different color.
